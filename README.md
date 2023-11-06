@@ -36,9 +36,9 @@ object **Jeremias** {
 
 <br>
 
-## Rede sociais
+## Projects
 
-🏡 [Website][website] **|**
+📝 [Blog][https://jeremiasjs.hashnode.dev/] **|**
 🐦 [Twitter][twitter] **|**
 📺 [Youtube][youtube] **|**
 📷 [Instagram][instagram] **|**
