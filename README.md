@@ -9,6 +9,7 @@ Gosto de Criar Ótimas Aplicações Full Stack SaaS Projects Startup.
 ```kotlin
 object **Jeremias** {
  val name = "Jeremias.js"
+ val e-mail = "jeremias.js@outlook.com"
  val acknowledgements = "Startup"
 
  val primarySkillset = "Industrial"
