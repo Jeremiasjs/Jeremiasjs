@@ -45,5 +45,5 @@ object **Jeremias** {
 ## MVPs
 
 📝 [Blog][https://jeremiasjs.hashnode.dev/] **|**
-🐦 [Léo][https://app.vc/leo_premium] **|**
-📺 [Engenharia Hawaiiana][https://engenharia-hawaiiana-comunidade.vercel.app/] **|**
+🍞🧀 [Léo][https://app.vc/leo_premium] **|**
+⚙ [Engenharia Hawaiiana][https://engenharia-hawaiiana-comunidade.vercel.app/] **|**
