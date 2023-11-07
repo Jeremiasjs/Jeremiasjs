@@ -36,10 +36,14 @@ object **Jeremias** {
 
 <br>
 
+ ## Startup
+
+🚀 [Sucro Studio Beta][https://sucro-studio-beta.flutterflow.app/] **|**
+🚀 [Sucro Studio Free][https://app.vc/sucro_studio_free] **|**
+🚀 [Sucro Studio][https://app.vc/sucro_studio_app] **|**
+
 ## MVPs
 
-📝 [https://jeremiasjs.hashnode.dev/][Blog] **|**
-🐦 [Twitter][twitter] **|**
-📺 [Youtube][youtube] **|**
-📷 [Instagram][instagram] **|**
-👔 [LinkedIn][linkedin]
+📝 [Blog][https://jeremiasjs.hashnode.dev/] **|**
+🐦 [Léo][https://app.vc/leo_premium] **|**
+📺 [Engenharia Hawaiiana][https://engenharia-hawaiiana-comunidade.vercel.app/] **|**
