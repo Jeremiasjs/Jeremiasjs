@@ -36,9 +36,9 @@ object **Jeremias** {
 
 <br>
 
-## Projects
+## MVPs
 
-📝 [Blog][https://jeremiasjs.hashnode.dev/] **|**
+📝 [https://jeremiasjs.hashnode.dev/][Blog] **|**
 🐦 [Twitter][twitter] **|**
 📺 [Youtube][youtube] **|**
 📷 [Instagram][instagram] **|**
