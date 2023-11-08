@@ -52,3 +52,8 @@ object **Jeremias** {
 
 🏗 [Jeremias.js Rede Social - v.jan/24/p1] [📊 3.45%]**|**
 🏗 [Jeremias.js Anotar - v.fev/24/p2] [📊 0%]**|**
+🏗 [Jeremias.js Proposta - v.mar/24/p3] [📊 0%]**|**
+
+## Plataforma
+
+👩‍🎓 [Jeremias.js LMS - v.mar/24/p4] [📊 0%]**|**
