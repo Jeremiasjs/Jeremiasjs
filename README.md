@@ -52,6 +52,8 @@ object **Jeremias** {
 
 🏗 [Jeremias.js Rede Social - v.jan/24/p1] [📊 6.84%]**|**
 🏗 [Jeremias.js Caderno - v.fev/24/p2] [📊 0%]**|**
+🏗 [Jeremias.js Finança - v.abr/24/p2] [📊 0%]**|**
+🏗 [Jeremias.js Inventário - v.mai/24/p2] [📊 0%]**|**
 
 ## Plataforma
 
