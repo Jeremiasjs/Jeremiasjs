@@ -50,7 +50,7 @@ object **Jeremias** {
 
 ## Projeto em Desenvolvimento
 
-🏗 [Jeremias.js Rede Social - v.jan/24/p1] [📊 8.55%]**|**
+🏗 [Jeremias.js Rede Social - v.jan/24/p1] [📊 18%]**|**
 🏗 [Jeremias.js Caderno - v.fev/24/p2] [📊 0%]**|**
 🏗 [Jeremias.js Finança - v.abr/24/p2] [📊 0%]**|**
 🏗 [Jeremias.js Inventário - v.mai/24/p2] [📊 0%]**|**
