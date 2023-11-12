@@ -51,9 +51,10 @@ object **Jeremias** {
 ## Projeto em Desenvolvimento
 
 🏗 [Jeremias.js Rede Social - v.jan/24/p1] [📊 18%]**|**
-🏗 [Jeremias.js Caderno - v.fev/24/p2] [📊 0%]**|**
-🏗 [Jeremias.js Finança - v.abr/24/p2] [📊 0%]**|**
-🏗 [Jeremias.js Inventário - v.mai/24/p2] [📊 0%]**|**
+🏗 [Jeremias.js Notavel - v.fev/24/p2.1] [📊 0%]**|**
+🏗 [Jeremias.js FormDavel - v.fev/24/p2.2] [📊 0%]**|**
+🏗 [Jeremias.js Finança - v.abr/24/p4] [📊 0%]**|**
+🏗 [Jeremias.js Inventário - v.mai/24/p5] [📊 0%]**|**
 
 ## Plataforma
 
